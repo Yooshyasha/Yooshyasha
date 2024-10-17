@@ -1,16 +1,29 @@
-## Hi there 👋
+<h2 align="center">Yooshyasha</h2>
+<p align="center">Hello! I am Yooshyasha!</p>
 
-<!--
-**Yooshyasha/Yooshyasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><h2 align="center">Statistics:</h2><br>
 
-Here are some ideas to get you started:
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yooshyasha&layout=compact&theme=tokyonight" alt="Stats">
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yooshyasha&theme=tokyonight" alt="Stats2">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">My Interests:</h2>
+<ul align="center">
+    <li>🌐 Web Development</li>
+    <li>🎮 Game Development</li>
+    <li>📱 Mobile Applications</li>
+</ul>
+
+<h2 align="center">My Projects:</h2>
+<p align="center">Here are a few projects I've worked on:</p>
+<ul align="center">
+    <li><a href="https://github.com/Yooshyasha/YooshaTimeManager">YooshaTimeManager</a> - An interesting, half finished project that helps you keep track of your time</li>
+</ul>
+
+<h2 align="center">Contact Me:</h2>
+<p align="center">
+    <a href="https://github.com/Yooshyasha">GitHub</a> |
+    <a href="https://t.me/yooshyasha">Telegram</a>
+</p>

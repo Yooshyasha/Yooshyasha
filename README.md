@@ -11,9 +11,9 @@
 
 <h2 align="center">My Interests:</h2>
 <ul align="center">
-    <li>🌐 Web Development</li>
-    <li>🎮 Game Development</li>
-    <li>📱 Mobile Applications</li>
+    <li>🌐 Web Development (Spring, FastAPI)</li>
+    <li>🎮 Game Development (Unreal Engine, Unity)</li>
+    <li>📱 Mobile Applications (Android SDK)</li>
 </ul>
 
 <h2 align="center">My Projects:</h2>
